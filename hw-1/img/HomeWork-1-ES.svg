@@ -1,0 +1,1094 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="6265.19px" height="2861.56px"
+		style="transform-origin: 0px 0px 0px;" version="1.1"
+		xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style xmlns="http://www.w3.org/2000/svg" type="text/css"><![CDATA[
+		* {
+			text-rendering: geometricprecision !important;
+		}
+		]]><![CDATA[@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans'), local('NotoSans'), url("https://mirostatic.com/app/static/a73798e3d459e1bc.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url("https://mirostatic.com/app/static/a8edd710f88715d4.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Noto Sans Medium'), local('NotoSans-Medium'), url("https://mirostatic.com/app/static/006d7e33e60b9e12.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 500;
+  src: local('Noto Sans Medium Italic'), local('NotoSans-MediumItalic'), url("https://mirostatic.com/app/static/31387059566a3171.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Noto Sans SemiBold'), local('NotoSans-SemiBold'), url("https://mirostatic.com/app/static/526dd53b40975c37.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Noto Sans SemiBold Italic'), local('NotoSans-SemiBoldItalic'), url("https://mirostatic.com/app/static/e73d4fdd87d7e319.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url("https://mirostatic.com/app/static/9f11d6779c14d2bc.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url("https://mirostatic.com/app/static/888e13e017cedc15.woff2") format('woff2');
+}
+]]><![CDATA[@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/800985e1502d12bf.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/d8a7ca42a20caea5.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/3cc74c1d3919bd5c.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/f0481285dc248cf0.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/2f5e8dcf6e47bf00.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/0e625f45b71a26f1.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/645c27eb7d93eca8.woff2") format('woff2');
+}
+]]><![CDATA[@font-face {
+  font-family: 'Noto Sans Hebrew';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans Hebrew Regular'), local('Noto Sans Hebrew-Regular'), url("https://mirostatic.com/app/static/7ebe1dcf0343326c.woff2") format('woff2'), url("https://mirostatic.com/app/static/6c11f037d6968262.woff") format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans Hebrew';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Noto Sans Hebrew Bold'), local('Noto Sans Hebrew-Bold'), url("https://mirostatic.com/app/static/d2883e2f177d0dad.woff2") format('woff2'), url("https://mirostatic.com/app/static/8546991909eadbc9.woff") format('woff');
+}
+]]><![CDATA[@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans Japanese Regular'), local('Noto Sans Japanese-Regular'), url("https://mirostatic.com/app/static/9320b3c07ab79383.woff2") format('woff2'), url("https://mirostatic.com/app/static/a43be2cbcfc0b250.woff") format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Noto Sans Japanese Bold'), local('Noto Sans Japanese-Bold'), url("https://mirostatic.com/app/static/7ab032c73212439f.woff2") format('woff2'), url("https://mirostatic.com/app/static/29f177f4466bd7a1.woff") format('woff');
+}
+]]><![CDATA[@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url("https://mirostatic.com/app/static/7a5b625774730d22.woff2") format('woff2'), url("https://mirostatic.com/app/static/2d84dc606f1fb88e.woff") format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''), url("https://mirostatic.com/app/static/fa5a3d9073cdd58f.woff2") format('woff2'), url("https://mirostatic.com/app/static/7ded243557c83342.woff") format('woff');
+}
+]]></style><path id="LineHeadArrow2" d="M-12.727272727272727,-7.545454545454545 L0,0 L-12.727272727272727,7.545454545454545 Z"></path><path id="LineHeadArrow1" d="M-10,-6 L0,0 L-10,6 Z"></path><filter x="-50%" y="-50%" width="200%" height="200%" id="StickerShadowFilter">
+				<feOffset result="offOut" in="SourceGraphic" dx="1" dy="3" />
+      			<feGaussianBlur result="blurOut" in="offOut" stdDeviation="3" />
+			</filter><path id="StickerType2Path" d="M.01 1C.004.45.444.005 1.01.01l410.98 3.98c.558.006 1.015.46 1.02 1.017l3.98 396.986c.005.556-.434 1.007-1 1.007H5.01c-.558 0-1.015-.455-1.02-1L.01 1z"/><g id="StickerType2" fill-rule="evenodd">
+					<image xlink:href="data:image/png;base64,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" width="431px" height="417px" transform="translate(-3, 2)" />
+					<g><use fill="inherit" xlink:href="#StickerType2Path"/></g>
+				</g><path id="StickerType1Path" d="M0 1.006C0 .45.445 0 .994 0h412.012c.55 0 .997.454 1 .998l2.987 400.004c.004.55-.44 1-.994 1.005L1 404.993c-.552.004-1-.45-1-1V1.007z"/><g id="StickerType1" fill-rule="evenodd">
+					<image xlink:href="data:image/png;base64,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" width="431px" height="419px" transform="translate(-6, -4)" />
+					<g><use fill="inherit" xlink:href="#StickerType1Path"/></g>
+				</g></defs><rect id="svg-board-background-color" width="100%" height="100%" fill="#f2f2f2"></rect><use xlink:href="#StickerType2" transform="translate(37.91, 1471.52) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#fff79e"/><g width="199px" height="228px"  transform="translate(31.97, 1466.66) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="0.5583343505859375" y="97" width="149.88333129882812" textLength="149.88333129882812" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="60" 
+				fill="#1a1a1a" direction="ltr" >Actor</text></g></g><use xlink:href="#StickerType2" transform="translate(37.91, 1625.02) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(31.97, 1620.16) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.508331298828125" y="95.5" width="145.98333740234375" textLength="145.98333740234375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="56" 
+				fill="#1a1a1a" direction="ltr" >Event</text></g></g><use xlink:href="#StickerType2" transform="translate(37.91, 1778.14) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(31.97, 1773.28) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="1.4749984741210938" y="94" width="148.0500030517578" textLength="148.0500030517578" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="50" 
+				fill="#1a1a1a" direction="ltr" >Action</text></g></g><use xlink:href="#StickerType1" transform="translate(37.91, 1931.26) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#6ae08d"/><g width="199px" height="228px"  transform="translate(31.97, 1926.4) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="8.400001525878906" y="60" width="134.1999969482422" textLength="134.1999969482422" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="50" 
+				fill="#1a1a1a" direction="ltr" >Read-​</text><text xml:space="preserve" x="1.0749969482421875" y="128" width="148.85000610351562" textLength="148.85000610351562" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="50" 
+				fill="#1a1a1a" direction="ltr" >model</text></g></g><use xlink:href="#StickerType2" transform="translate(37.91, 2084.76) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#b8acfb"/><g width="199px" height="228px"  transform="translate(31.97, 2079.9) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.1750030517578125" y="95" width="146.64999389648438" textLength="146.64999389648438" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="54" 
+				fill="#1a1a1a" direction="ltr" >Policy</text></g></g><use xlink:href="#StickerType1" transform="translate(37.91, 2237.88) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffd2f2"/><g width="199px" height="228px"  transform="translate(31.97, 2233.02) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.1583328247070312" y="64" width="146.68333435058594" textLength="146.68333435058594" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >External</text><text xml:space="preserve" x="12.266666412353516" y="116" width="126.46666717529297" textLength="126.46666717529297" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >system</text></g></g><use xlink:href="#StickerType2" transform="translate(959.81, 2006.76) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(953.87, 2001.9) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="4.608329772949219" y="46.5" width="149.58334064483643" textLength="149.58334064483643" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >Появился </text><text xml:space="preserve" x="28.224998474121094" y="87.5" width="102.35000324249268" textLength="102.35000324249268" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >новый </text><text xml:space="preserve" x="24.958332061767578" y="128.5" width="101.08333587646484" textLength="101.08333587646484" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >клиент</text></g></g><use xlink:href="#StickerType1" transform="translate(710.17, 2006.76) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffd2f2"/><g width="199px" height="228px"  transform="translate(704.23, 2001.9) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="10.141670227050781" y="44" width="139.03332614898682" textLength="139.03332614898682" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="32" 
+				fill="#1a1a1a" direction="ltr" >Система </text><text xml:space="preserve" x="32.93333435058594" y="88" width="93.4499979019165" textLength="93.4499979019165" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="32" 
+				fill="#1a1a1a" direction="ltr" >учёта </text><text xml:space="preserve" x="3.2249984741210938" y="132" width="144.5500030517578" textLength="144.5500030517578" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="32" 
+				fill="#1a1a1a" direction="ltr" >клиентов</text></g></g><g width="142.18px" height="0px"  transform="translate(811.69, 2063.46) scale(1) rotate(0, 71.09, 0)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="2" fill="transparent"
+			d="M 0 0 C 52.80004370747156 0 79.20006556120745 2.842170943040401e-14 132.000109268679 2.842170943040401e-14" /> <use xlink:href="#LineHeadArrow2" fill="#333333"
+			 transform="translate(142.18192745049714, 0)  rotate(0) "  /> </g><use xlink:href="#StickerType1" transform="translate(1446.45, 2142.43) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(1440.51, 2137.57) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.2750015258789062" y="50" width="144.4499969482422" textLength="144.4499969482422" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >Запрошена</text><text xml:space="preserve" x="13.450000524520874" y="86" width="130.86666584014893" textLength="130.86666584014893" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >помощь у </text><text xml:space="preserve" x="17.349998474121094" y="122" width="116.30000305175781" textLength="116.30000305175781" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >саппорта</text></g></g><use xlink:href="#StickerType1" transform="translate(1169.44, 2006.76) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#fff79e"/><g width="199px" height="228px"  transform="translate(1163.5, 2001.9) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.7750015258789062" y="91" width="145.4499969482422" textLength="145.4499969482422" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="42" 
+				fill="#1a1a1a" direction="ltr" >Клиент</text></g></g><use xlink:href="#StickerType1" transform="translate(1110.02, 2310.44) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(1104.08, 2305.58) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="9.183334350585938" y="50" width="139.3999981880188" textLength="139.3999981880188" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >Изменены </text><text xml:space="preserve" x="1.7750015258789062" y="86" width="147.4499969482422" textLength="147.4499969482422" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >возможные</text><text xml:space="preserve" x="7.683332204818726" y="122" width="135.63333559036255" textLength="135.63333559036255" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >типы услуг</text></g></g><use xlink:href="#StickerType1" transform="translate(1453.15, 1887.47) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(1447.21, 1882.61) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="34.70000076293945" y="50" width="88.36666536331177" textLength="88.36666536331177" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >Услуга </text><text xml:space="preserve" x="43.016666412353516" y="86" width="71.73333406448364" textLength="71.73333406448364" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >была </text><text xml:space="preserve" x="4.4333343505859375" y="122" width="142.13333129882812" textLength="142.13333129882812" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >запрошена</text></g></g><use xlink:href="#StickerType2" transform="translate(3807.66, 1527.94) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(3801.72, 1523.08) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="1.0833361148834229" y="55" width="148.83332777023315" textLength="148.83332777023315" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Статус задачи</text><text xml:space="preserve" x="0.6999990940093994" y="85" width="149.6000018119812" textLength="149.6000018119812" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >измененён на</text><text xml:space="preserve" x="6.741668701171875" y="115" width="137.51666259765625" textLength="137.51666259765625" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >&quot;выполнена&quot;</text></g></g><use xlink:href="#StickerType2" transform="translate(3807.66, 1706.38) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(3801.72, 1701.52) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="1.0833361148834229" y="55" width="148.83332777023315" textLength="148.83332777023315" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Статус задачи</text><text xml:space="preserve" x="0.6999990940093994" y="85" width="149.6000018119812" textLength="149.6000018119812" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >измененён на</text><text xml:space="preserve" x="9.033332824707031" y="115" width="132.93333435058594" textLength="132.93333435058594" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >&quot;провалена&quot;</text></g></g><use xlink:href="#StickerType2" transform="translate(2713.01, 1843.44) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(2707.07, 1838.58) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="20.433334350585938" y="66" width="118.4499979019165" textLength="118.4499979019165" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="32" 
+				fill="#1a1a1a" direction="ltr" >Задача </text><text xml:space="preserve" x="0.241668701171875" y="110" width="150.51666259765625" textLength="150.51666259765625" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="32" 
+				fill="#1a1a1a" direction="ltr" >отменена</text></g></g><use xlink:href="#StickerType1" transform="translate(4693.87, 1479.84) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(4687.93, 1474.98) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="23.875" y="46.5" width="111.05000019073486" textLength="111.05000019073486" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >Задача </text><text xml:space="preserve" x="5.6999969482421875" y="87.5" width="147.4000062942505" textLength="147.4000062942505" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >оплачена </text><text xml:space="preserve" x="4.6833343505859375" y="128.5" width="141.63333129882812" textLength="141.63333129882812" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >клиентом</text></g></g><use xlink:href="#StickerType2" transform="translate(3168.23, 2007.04) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#fff79e"/><g width="199px" height="228px"  transform="translate(3162.29, 2002.18) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="1.5333328247070312" y="91" width="147.93333435058594" textLength="147.93333435058594" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="42" 
+				fill="#1a1a1a" direction="ltr" >Воркер</text></g></g><use xlink:href="#StickerType1" transform="translate(3420.78, 2011.78) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(3414.84, 2006.92) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="29.71666717529297" y="32" width="98.33333253860474" textLength="98.33333253860474" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >Воркер </text><text xml:space="preserve" x="9.324996948242188" y="68" width="139.1166729927063" textLength="139.1166729927063" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >отметился </text><text xml:space="preserve" x="0.7249987125396729" y="104" width="149.55000257492065" textLength="149.55000257492065" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >о прибытии</text><text xml:space="preserve" x="23.133332014083862" y="140" width="104.73333597183228" textLength="104.73333597183228" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >на заказ</text></g></g><use xlink:href="#StickerType1" transform="translate(3660.49, 2011.78) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(3654.55, 2006.92) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="36.75" y="25" width="83.21666669845581" textLength="83.21666669845581" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Воркер </text><text xml:space="preserve" x="30.849998474121094" y="55" width="95.01666975021362" textLength="95.01666975021362" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >прислал </text><text xml:space="preserve" x="38.13333249092102" y="85" width="80.45000171661377" textLength="80.45000171661377" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >отчёт с </text><text xml:space="preserve" x="9.533332824707031" y="115" width="137.65000104904175" textLength="137.65000104904175" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >результатом </text><text xml:space="preserve" x="40.79166793823242" y="145" width="69.41666412353516" textLength="69.41666412353516" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >заказа</text></g></g><use xlink:href="#StickerType1" transform="translate(1120.86, 601.8) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#fff79e"/><g width="199px" height="228px"  transform="translate(1114.92, 596.94) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="1.4083328247070312" y="44" width="148.18333435058594" textLength="148.18333435058594" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="32" 
+				fill="#1a1a1a" direction="ltr" >Кандидат</text><text xml:space="preserve" x="66.47500038146973" y="88" width="26.366665840148926" textLength="26.366665840148926" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="32" 
+				fill="#1a1a1a" direction="ltr" >в </text><text xml:space="preserve" x="8.391670227050781" y="132" width="134.21665954589844" textLength="134.21665954589844" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="32" 
+				fill="#1a1a1a" direction="ltr" >воркеры</text></g></g><use xlink:href="#StickerType2" transform="translate(1365.62, 601.8) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(1359.68, 596.94) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.5416641235351562" y="47.5" width="143.9166717529297" textLength="143.9166717529297" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Кандидату</text><text xml:space="preserve" x="0.7083358764648438" y="86.5" width="149.5833282470703" textLength="149.5833282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >назначены</text><text xml:space="preserve" x="37.38333511352539" y="125.5" width="76.23332977294922" textLength="76.23332977294922" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >тесты</text></g></g><use xlink:href="#StickerType2" transform="translate(2162.38, 601.8) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(2156.44, 596.94) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="10.666664123535156" y="28" width="136.95000505447388" textLength="136.95000505447388" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Кандидат </text><text xml:space="preserve" x="10.108329772949219" y="67" width="138.06667375564575" textLength="138.06667375564575" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >добавлен </text><text xml:space="preserve" x="40.833333253860474" y="106" width="76.61666679382324" textLength="76.61666679382324" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >в пул </text><text xml:space="preserve" x="11.183334350585938" y="145" width="128.63333129882812" textLength="128.63333129882812" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >воркеров</text></g></g><use xlink:href="#StickerType2" transform="translate(1962.41, 601.8) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#b8acfb"/><g width="199px" height="228px"  transform="translate(1956.47, 596.94) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="33.74166488647461" y="46.5" width="91.31667041778564" textLength="91.31667041778564" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >Тесты </text><text xml:space="preserve" x="1.0999984741210938" y="87.5" width="148.8000030517578" textLength="148.8000030517578" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >пройдены</text><text xml:space="preserve" x="12.041667938232422" y="128.5" width="126.91666412353516" textLength="126.91666412353516" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >успешно</text></g></g><use xlink:href="#StickerType2" transform="translate(1642.58, 601.8) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(1636.64, 596.94) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="22.666667938232422" y="32" width="112.43333101272583" textLength="112.43333101272583" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >Пришли </text><text xml:space="preserve" x="5.258331298828125" y="68" width="147.25000429153442" textLength="147.25000429153442" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >результаты </text><text xml:space="preserve" x="18.016666173934937" y="104" width="121.7333345413208" textLength="121.7333345413208" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >тестов от </text><text xml:space="preserve" x="9.425003051757812" y="140" width="132.14999389648438" textLength="132.14999389648438" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >кандидата</text></g></g><g width="92.51px" height="0px"  transform="translate(2063.93, 658.5) scale(1) rotate(0, 46.255, 0)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 0 C 33.8042903981264 0 50.70643559718957 2.2737367544323206e-13 84.51072599531597 2.2737367544323206e-13" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(92.51072599531562, 0)  rotate(0) "  /> </g><use xlink:href="#StickerType1" transform="translate(2495.78, 1850.18) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#fff79e"/><g width="199px" height="228px"  transform="translate(2489.84, 1845.32) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.7750015258789062" y="91" width="145.4499969482422" textLength="145.4499969482422" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="42" 
+				fill="#1a1a1a" direction="ltr" >Клиент</text></g></g><use xlink:href="#StickerType2" transform="translate(3576.9, 1636.45) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#fff79e"/><g width="199px" height="228px"  transform="translate(3570.96, 1631.59) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.7750015258789062" y="91" width="145.4499969482422" textLength="145.4499969482422" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="42" 
+				fill="#1a1a1a" direction="ltr" >Клиент</text></g></g><use xlink:href="#StickerType1" transform="translate(2836.72, 1664.86) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(2830.78, 1660) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="1.2999987602233887" y="46.5" width="148.40000247955322" textLength="148.40000247955322" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >Воркер не</text><text xml:space="preserve" x="17.49166488647461" y="87.5" width="123.81667041778564" textLength="123.81667041778564" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >пришёл </text><text xml:space="preserve" x="15.066667079925537" y="128.5" width="120.86666584014893" textLength="120.86666584014893" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >на заказ</text></g></g><use xlink:href="#StickerType2" transform="translate(1872.75, 1963.87) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(1866.81, 1959.01) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.5166702270507812" y="65" width="145.96665954589844" textLength="145.96665954589844" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="36" 
+				fill="#1a1a1a" direction="ltr" >Создана</text><text xml:space="preserve" x="15.166667938232422" y="114" width="120.66666412353516" textLength="120.66666412353516" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="36" 
+				fill="#1a1a1a" direction="ltr" >задача</text></g></g><use xlink:href="#StickerType1" transform="translate(2620.97, 1183.49) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(2615.03, 1178.63) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="26.833332061767578" y="36" width="103.56666898727417" textLength="103.56666898727417" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Создана </text><text xml:space="preserve" x="19.3083336353302" y="69" width="118.61666584014893" textLength="118.61666584014893" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >заявка на </text><text xml:space="preserve" x="35.50833511352539" y="102" width="86.21666288375854" textLength="86.21666288375854" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >сборку </text><text xml:space="preserve" x="0.5833358764648438" y="135" width="149.8333282470703" textLength="149.8333282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >расходников</text></g></g><g width="629.8px" height="657.26px"  transform="translate(1920.54, 1301.75) scale(1) rotate(0, 314.9, 328.63)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 657.262523433817 C 0 432.67087616066806 93.92931636450265 237.74073844253428 270.3354181443979 165.14712858001917 C 415.45432896660435 105.42864101293549 629.8016963974162 164.92608462433338 629.8016963974162 8" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(629.801696397416, 0)  rotate(-90) "  /> </g><use xlink:href="#StickerType1" transform="translate(2866.94, 1178.96) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#fff79e"/><g width="199px" height="228px"  transform="translate(2861, 1174.1) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="14.308334350585938" y="52.5" width="128.61666440963745" textLength="128.61666440963745" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Сотрудник </text><text xml:space="preserve" x="35.78333282470703" y="85.5" width="85.66666746139526" textLength="85.66666746139526" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >отдела </text><text xml:space="preserve" x="0.5833358764648438" y="118.5" width="149.8333282470703" textLength="149.8333282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >расходников</text></g></g><use xlink:href="#StickerType2" transform="translate(3293.31, 1178.96) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(3287.37, 1174.1) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="38.43333435058594" y="36" width="80.36666440963745" textLength="80.36666440963745" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Статус </text><text xml:space="preserve" x="35.45000076293945" y="69" width="86.33333158493042" textLength="86.33333158493042" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >заявки </text><text xml:space="preserve" x="11.216667175292969" y="102" width="134.7999987602234" textLength="134.7999987602234" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >поменялся </text><text xml:space="preserve" x="3.1833336353302" y="135" width="144.6333327293396" textLength="144.6333327293396" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >на &quot;Выдано&quot;</text></g></g><use xlink:href="#StickerType2" transform="translate(2691.47, 851.69) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffd2f2"/><g width="199px" height="228px"  transform="translate(2685.53, 846.83) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="13.25" y="58.5" width="129.18333339691162" textLength="129.18333339691162" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >Производство </text><text xml:space="preserve" x="32.70833349227905" y="83.5" width="90.26666641235352" textLength="90.26666641235352" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >печенья с </text><text xml:space="preserve" x="2.008331298828125" y="108.5" width="146.98333740234375" textLength="146.98333740234375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >предсказаниями</text></g></g><g width="135.18px" height="270.25px"  transform="translate(2550.34, 908.39) scale(1) rotate(0, 67.59, 135.125)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 270.2451697649735 C 0 150.77446942096867 7.711647971295861 0 127.18234831530071 0" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(135.18234831530117, 0)  rotate(0) "  /> </g><use xlink:href="#StickerType1" transform="translate(3077.52, 1178.96) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(3071.58, 1174.1) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="21.88333511352539" y="32" width="113.99999666213989" textLength="113.99999666213989" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >Печенье </text><text xml:space="preserve" x="7.0583343505859375" y="68" width="143.6499981880188" textLength="143.6499981880188" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >добавлено </text><text xml:space="preserve" x="68.16666650772095" y="104" width="21.43333387374878" textLength="21.43333387374878" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >в </text><text xml:space="preserve" x="1.0666656494140625" y="140" width="148.86666870117188" textLength="148.86666870117188" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >расходники</text></g></g><use xlink:href="#StickerType2" transform="translate(2974.4, 1045.56) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(2968.46, 1040.7) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="21.88333511352539" y="32" width="113.99999666213989" textLength="113.99999666213989" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >Печенье </text><text xml:space="preserve" x="7.7666661739349365" y="68" width="142.2333345413208" textLength="142.2333345413208" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >для заказа </text><text xml:space="preserve" x="2.366668701171875" y="104" width="146.26666259765625" textLength="146.26666259765625" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >доставлено</text><text xml:space="preserve" x="20.84999918937683" y="140" width="109.30000162124634" textLength="109.30000162124634" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >на склад</text></g></g><g width="229.2px" height="132.31px"  transform="translate(2792.99, 908.39) scale(1) rotate(0, 114.6, 66.155)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 0 C 104.29602948954243 0 229.1983840749415 20.01602456378555 229.1983840749415 124.31205405332798" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(229.1983840749417, 132.3120540533282)  rotate(90) "  /> </g><use xlink:href="#StickerType1" transform="translate(5199.35, 2081.85) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#fff79e"/><g width="199px" height="228px"  transform="translate(5193.41, 2076.99) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.8333358764648438" y="47.5" width="150.6166615486145" textLength="150.6166615486145" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Менеджер </text><text xml:space="preserve" x="29.15833282470703" y="86.5" width="99.96666765213013" textLength="99.96666765213013" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >отдела </text><text xml:space="preserve" x="15.50833511352539" y="125.5" width="119.98332977294922" textLength="119.98332977294922" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >качества</text></g></g><use xlink:href="#StickerType2" transform="translate(2939.42, 1561.78) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#f3f5f7"/><g width="199px" height="228px"  transform="translate(2933.48, 1556.92) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="37.099998474121094" y="25" width="82.51666975021362" textLength="82.51666975021362" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Нельзя </text><text xml:space="preserve" x="24.75833511352539" y="55" width="107.19999647140503" textLength="107.19999647140503" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >отменить </text><text xml:space="preserve" x="44.358333587646484" y="85" width="67.99999952316284" textLength="67.99999952316284" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >после </text><text xml:space="preserve" x="22.09166717529297" y="115" width="112.53333234786987" textLength="112.53333234786987" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >прибытия </text><text xml:space="preserve" x="26.808334350585938" y="145" width="97.38333129882812" textLength="97.38333129882812" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >воркера?</text></g></g><use xlink:href="#StickerType1" transform="translate(4177.11, 1479.84) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffd2f2"/><g width="199px" height="228px"  transform="translate(4171.17, 1474.98) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="36.325000524520874" y="69" width="84.58333206176758" textLength="84.58333206176758" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Крон в </text><text xml:space="preserve" x="2.4833297729492188" y="102" width="146.03334045410156" textLength="146.03334045410156" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >воскресенье</text></g></g><use xlink:href="#StickerType2" transform="translate(4397.47, 1479.84) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(4391.53, 1474.98) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="19.891666412353516" y="47.5" width="118.50000047683716" textLength="118.50000047683716" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Клиенту </text><text xml:space="preserve" x="3.3499984741210938" y="86.5" width="144.3000030517578" textLength="144.3000030517578" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >выставлен</text><text xml:space="preserve" x="26.400001525878906" y="125.5" width="98.19999694824219" textLength="98.19999694824219" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >инвойс</text></g></g><g width="112.9px" height="0px"  transform="translate(4278.63, 1536.54) scale(1) rotate(0, 56.45, 0)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 0 C 41.961959017739446 0 62.942938526609396 1.1368683772161603e-13 104.90489754434884 1.1368683772161603e-13" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(112.9048975443493, 0)  rotate(0) "  /> </g><use xlink:href="#StickerType2" transform="translate(5480.93, 2081.85) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(5474.99, 2076.99) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.8333358764648438" y="47.5" width="150.6166615486145" textLength="150.6166615486145" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Менеджер </text><text xml:space="preserve" x="4.416665315628052" y="86.5" width="149.4500026702881" textLength="149.4500026702881" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >связался с </text><text xml:space="preserve" x="9.408332824707031" y="125.5" width="132.18333435058594" textLength="132.18333435058594" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >клиентом</text></g></g><use xlink:href="#StickerType2" transform="translate(5792.96, 2081.85) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(5787.02, 2076.99) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="10.666664123535156" y="28" width="136.95000505447388" textLength="136.95000505447388" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Результат </text><text xml:space="preserve" x="9.941665649414062" y="67" width="138.40000200271606" textLength="138.40000200271606" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >проверки </text><text xml:space="preserve" x="9.949998140335083" y="106" width="138.38333702087402" textLength="138.38333702087402" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >занесён в </text><text xml:space="preserve" x="30.483333587646484" y="145" width="90.03333282470703" textLength="90.03333282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >форму</text></g></g><use xlink:href="#StickerType2" transform="translate(1446.45, 2003.94) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(1440.51, 1999.08) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="14.700000762939453" y="28" width="128.88333177566528" textLength="128.88333177566528" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Изменён </text><text xml:space="preserve" x="28.36666488647461" y="67" width="101.55000352859497" textLength="101.55000352859497" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >способ </text><text xml:space="preserve" x="25.708332061767578" y="106" width="106.86666917800903" textLength="106.86666917800903" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >оплаты </text><text xml:space="preserve" x="40.41666793823242" y="145" width="70.16666412353516" textLength="70.16666412353516" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >услуг</text></g></g><use xlink:href="#StickerType2" transform="translate(2521.15, 2631.58) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#fff79e"/><g width="199px" height="228px"  transform="translate(2515.21, 2626.72) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.8333358764648438" y="86.5" width="143.3333282470703" textLength="143.3333282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Менеджер</text></g></g><use xlink:href="#StickerType1" transform="translate(2749.12, 2636.59) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(2743.18, 2631.73) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="12.658332824707031" y="55" width="131.40000104904175" textLength="131.40000104904175" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Поставлена </text><text xml:space="preserve" x="31.841668367385864" y="85" width="93.03332996368408" textLength="93.03332996368408" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >ставка в </text><text xml:space="preserve" x="3.875" y="115" width="143.25" textLength="143.25" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >тотализаторе</text></g></g><use xlink:href="#StickerType1" transform="translate(4048.66, 2658.63) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(4042.72, 2653.77) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="19.500001192092896" y="55" width="117.71666431427002" textLength="117.71666431427002" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Награды в </text><text xml:space="preserve" x="3.875" y="85" width="148.9666666984558" textLength="148.9666666984558" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >тотализаторе </text><text xml:space="preserve" x="17.625" y="115" width="115.75" textLength="115.75" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >расчитаны</text></g></g><g width="1115.32px" height="815.19px"  transform="translate(2814.53, 1900.14) scale(1) rotate(0, 557.66, 407.595)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 0 C 353.4613299963405 0 685.3523069079918 11.21982858893864 842.9589411545264 265.072484982932 C 971.7331839922203 472.4856042069565 863.1817518352755 815.1929666900844 1107.3190239685177 815.1929666900844" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(1115.3190239685177, 815.1929666900846)  rotate(0) "  /> </g><g width="209.38px" height="952.25px"  transform="translate(3810.83, 1763.08) scale(1) rotate(0, 104.69, 476.125)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 98.35630404125095 0 C 479.28954363434286 0 -269.9067693001 952.2488111335199 111.02647029299169 952.2488111335199" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(119.02647029299214, 952.2488111335201)  rotate(0) "  /> </g><g width="250.49px" height="1130.7px"  transform="translate(3790.27, 1584.64) scale(1) rotate(0, 125.245, 565.35)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 118.91196620101937 0 C 571.2190327377539 0 -320.7249340839744 1130.6966799859788 131.5821324527601 1130.6966799859788" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(139.5821324527601, 1130.696679985979)  rotate(0) "  /> </g><use xlink:href="#StickerType1" transform="translate(1314.03, 2011.52) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(1308.09, 2006.66) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="29.358333587646484" y="28" width="99.56666612625122" textLength="99.56666612625122" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Задать </text><text xml:space="preserve" x="28.36666488647461" y="67" width="101.55000352859497" textLength="101.55000352859497" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >способ </text><text xml:space="preserve" x="25.708332061767578" y="106" width="106.86666917800903" textLength="106.86666917800903" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >оплаты </text><text xml:space="preserve" x="40.41666793823242" y="145" width="70.16666412353516" textLength="70.16666412353516" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >услуг</text></g></g><use xlink:href="#StickerType2" transform="translate(1306.36, 2140.92) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(1300.42, 2136.06) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="1.8333358764648438" y="68" width="147.3333282470703" textLength="147.3333282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >Обратиться</text><text xml:space="preserve" x="13.858333826065063" y="104" width="123.28333234786987" textLength="123.28333234786987" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >в саппорт</text></g></g><use xlink:href="#StickerType2" transform="translate(1314.03, 1888.4) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(1308.09, 1883.54) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.1916656494140625" y="28" width="144.61666870117188" textLength="144.61666870117188" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Заполнить</text><text xml:space="preserve" x="30.483333587646484" y="67" width="97.31666612625122" textLength="97.31666612625122" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >форму </text><text xml:space="preserve" x="11.941665649414062" y="106" width="134.40000200271606" textLength="134.40000200271606" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >создания </text><text xml:space="preserve" x="31.724998474121094" y="145" width="87.55000305175781" textLength="87.55000305175781" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >услуги</text></g></g><use xlink:href="#StickerType1" transform="translate(2603.07, 1831.34) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(2597.13, 1826.48) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.6500015258789062" y="67" width="143.6999969482422" textLength="143.6999969482422" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >Отменить</text><text xml:space="preserve" x="25.924999237060547" y="108" width="99.1500015258789" textLength="99.1500015258789" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >задачу</text></g></g><use xlink:href="#StickerType1" transform="translate(2634.67, 2622.48) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(2628.73, 2617.62) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="23.46666717529297" y="28" width="111.34999895095825" textLength="111.34999895095825" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Указать </text><text xml:space="preserve" x="6.191668272018433" y="67" width="145.89999675750732" textLength="145.89999675750732" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >событие и </text><text xml:space="preserve" x="25.400001525878906" y="106" width="107.48333024978638" textLength="107.48333024978638" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >размер </text><text xml:space="preserve" x="30.28333282470703" y="145" width="90.43333435058594" textLength="90.43333435058594" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >ставки</text></g></g><use xlink:href="#StickerType1" transform="translate(3288.83, 1993.38) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(3282.89, 1988.52) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="28.75833511352539" y="36" width="99.71666288375854" textLength="99.71666288375854" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Забрать </text><text xml:space="preserve" x="3.5666656494140625" y="69" width="150.1000018119812" textLength="150.1000018119812" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >расходники, </text><text xml:space="preserve" x="15.83333134651184" y="102" width="125.56667041778564" textLength="125.56667041778564" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >прийти на </text><text xml:space="preserve" x="44.29999923706055" y="135" width="62.400001525878906" textLength="62.400001525878906" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >заказ</text></g></g><use xlink:href="#StickerType1" transform="translate(3537.08, 2002.01) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(3531.14, 1997.15) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="4.766670227050781" y="68" width="148.2333264350891" textLength="148.2333264350891" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >Выполнить </text><text xml:space="preserve" x="41.724998474121094" y="104" width="67.55000305175781" textLength="67.55000305175781" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="26" 
+				fill="#1a1a1a" direction="ltr" >заказ</text></g></g><use xlink:href="#StickerType2" transform="translate(2502.55, 1183.49) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(2496.61, 1178.63) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.5916671752929688" y="42" width="145.81666564941406" textLength="145.81666564941406" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="20" 
+				fill="#1a1a1a" direction="ltr" >Сформировать</text><text xml:space="preserve" x="28.950000286102295" y="70" width="98.29999923706055" textLength="98.29999923706055" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="20" 
+				fill="#1a1a1a" direction="ltr" >заявку на </text><text xml:space="preserve" x="42.17499923706055" y="98" width="71.85000133514404" textLength="71.85000133514404" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="20" 
+				fill="#1a1a1a" direction="ltr" >сборку </text><text xml:space="preserve" x="13.066665649414062" y="126" width="124.86666870117188" textLength="124.86666870117188" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="20" 
+				fill="#1a1a1a" direction="ltr" >расходников</text></g></g><use xlink:href="#StickerType1" transform="translate(782.18, 1873.79) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#f3f5f7"/><g width="199px" height="228px"  transform="translate(776.24, 1868.93) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="37.5" y="46" width="80.68333339691162" textLength="80.68333339691162" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >Клиенты </text><text xml:space="preserve" x="22.79166555404663" y="71" width="110.10000228881836" textLength="110.10000228881836" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >создаются в </text><text xml:space="preserve" x="40.125" y="96" width="75.43333339691162" textLength="75.43333339691162" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >системе </text><text xml:space="preserve" x="2.4333343505859375" y="121" width="146.13333129882812" textLength="146.13333129882812" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >&quot;автоматически&quot;</text></g></g><use xlink:href="#StickerType1" transform="translate(995.92, 2306.88) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(989.98, 2302.02) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.125" y="56" width="149.94999980926514" textLength="149.94999980926514" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="20" 
+				fill="#1a1a1a" direction="ltr" >Редактировать </text><text xml:space="preserve" x="18.775001525878906" y="84" width="118.64999675750732" textLength="118.64999675750732" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="20" 
+				fill="#1a1a1a" direction="ltr" >возможные </text><text xml:space="preserve" x="23.32499933242798" y="112" width="104.35000133514404" textLength="104.35000133514404" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="20" 
+				fill="#1a1a1a" direction="ltr" >типы услуг</text></g></g><use xlink:href="#StickerType1" transform="translate(3689.5, 1624.42) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(3683.56, 1619.56) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.383331298828125" y="46.5" width="144.23333740234375" textLength="144.23333740234375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >Изменить</text><text xml:space="preserve" x="31.391666412353516" y="87.5" width="96.01666736602783" textLength="96.01666736602783" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >статус </text><text xml:space="preserve" x="24.24166488647461" y="128.5" width="102.51667022705078" textLength="102.51667022705078" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >задачи</text></g></g><use xlink:href="#StickerType2" transform="translate(3935.79, 2658.63) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(3929.85, 2653.77) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="16.71666717529297" y="40" width="123.28333234786987" textLength="123.28333234786987" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Рассчитать </text><text xml:space="preserve" x="29.983333587646484" y="70" width="96.74999952316284" textLength="96.74999952316284" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >награды </text><text xml:space="preserve" x="14.825000762939453" y="100" width="127.0666651725769" textLength="127.0666651725769" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >участников </text><text xml:space="preserve" x="3.8166656494140625" y="130" width="143.36666870117188" textLength="143.36666870117188" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >тотализатора</text></g></g><use xlink:href="#StickerType2" transform="translate(3185.86, 1163.18) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(3179.92, 1158.32) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="1.3416671752929688" y="36" width="148.31666564941406" textLength="148.31666564941406" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Подготовить</text><text xml:space="preserve" x="6.783332824707031" y="69" width="143.66666746139526" textLength="143.66666746139526" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >расходники </text><text xml:space="preserve" x="22.499998331069946" y="102" width="112.23333644866943" textLength="112.23333644866943" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >к выдаче </text><text xml:space="preserve" x="28.525001525878906" y="135" width="93.94999694824219" textLength="93.94999694824219" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >воркеру</text></g></g><use xlink:href="#StickerType1" transform="translate(5664.47, 2081.85) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(5658.53, 2076.99) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="21.224998474121094" y="28" width="115.833336353302" textLength="115.833336353302" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Занести </text><text xml:space="preserve" x="10.491668701171875" y="67" width="137.29999589920044" textLength="137.29999589920044" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >результат </text><text xml:space="preserve" x="9.941665649414062" y="106" width="138.40000200271606" textLength="138.40000200271606" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >проверки </text><text xml:space="preserve" x="18.941666841506958" y="145" width="113.11666631698608" textLength="113.11666631698608" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >в форму</text></g></g><use xlink:href="#StickerType1" transform="translate(5323.47, 2087.75) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(5317.53, 2082.89) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="9.366668701171875" y="28" width="139.54999589920044" textLength="139.54999589920044" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Выяснить </text><text xml:space="preserve" x="13.650001525878906" y="67" width="130.98333024978638" textLength="130.98333024978638" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >причины </text><text xml:space="preserve" x="21.266666412353516" y="106" width="115.75000047683716" textLength="115.75000047683716" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >плохого </text><text xml:space="preserve" x="2.7083358764648438" y="145" width="145.5833282470703" textLength="145.5833282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >результата</text></g></g><g width="2297.65px" height="462.97px"  transform="translate(2814.53, 1606.96) scale(1) rotate(0, 1148.825, 231.485)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 293.1796180151125 C 921.3360719772963 293.1796180151125 2297.651226004912 -466.37008809940664 2297.651226004912 454.9659838778897" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(2297.651226004912, 462.96598387788936)  rotate(90) "  /> </g><g width="1203px" height="486px"  transform="translate(3909.18, 1583.93) scale(1) rotate(0, 601.5, 243)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 0.7071106556851419 C 517.6903348945434 0.7071106556851419 1203.0023682881351 -39.69314508018658 1203.0023682881351 477.99718981435683" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(1203.0023682881347, 485.9971898143567)  rotate(90) "  /> </g><use xlink:href="#StickerType2" transform="translate(1236.14, 598.05) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(1230.2, 593.19) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="26.78333282470703" y="47.5" width="104.71666765213013" textLength="104.71666765213013" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Подать </text><text xml:space="preserve" x="10.324998617172241" y="86.5" width="137.6333360671997" textLength="137.6333360671997" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >заявку на </text><text xml:space="preserve" x="0.241668701171875" y="125.5" width="150.51666259765625" textLength="150.51666259765625" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >устройство</text></g></g><use xlink:href="#StickerType2" transform="translate(1490.14, 606.05) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(1484.2, 601.19) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.6666641235351562" y="63" width="145.6666717529297" textLength="145.6666717529297" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#1a1a1a" direction="ltr" >Пройти</text><text xml:space="preserve" x="21.041667938232422" y="118" width="108.91666412353516" textLength="108.91666412353516" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="40" 
+				fill="#1a1a1a" direction="ltr" >тесты</text></g></g><use xlink:href="#StickerType1" transform="translate(4174.76, 1220.65) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffd2f2"/><g width="199px" height="228px"  transform="translate(4168.82, 1215.79) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="29.125" y="38" width="102.63333320617676" textLength="102.63333320617676" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >Крон </text><text xml:space="preserve" x="28.450000762939453" y="90" width="103.98333168029785" textLength="103.98333168029785" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >раз в </text><text xml:space="preserve" x="18.674999237060547" y="142" width="113.6500015258789" textLength="113.6500015258789" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >месяц</text></g></g><use xlink:href="#StickerType2" transform="translate(4380.76, 1210.65) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(4374.82, 1205.79) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="19.49166488647461" y="47.5" width="119.30000352859497" textLength="119.30000352859497" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Воркеру </text><text xml:space="preserve" x="3.3499984741210938" y="86.5" width="144.3000030517578" textLength="144.3000030517578" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >выставлен</text><text xml:space="preserve" x="26.400001525878906" y="125.5" width="98.19999694824219" textLength="98.19999694824219" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >инвойс</text></g></g><use xlink:href="#StickerType1" transform="translate(4529.76, 1206.65) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(4523.82, 1201.79) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.4250030517578125" y="47.5" width="146.14999389648438" textLength="146.14999389648438" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Начислить</text><text xml:space="preserve" x="14.400001525878906" y="86.5" width="129.48333024978638" textLength="129.48333024978638" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >зарплату </text><text xml:space="preserve" x="20.691665649414062" y="125.5" width="109.61666870117188" textLength="109.61666870117188" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >воркеру</text></g></g><g width="98.54px" height="10px"  transform="translate(4276.28, 1267.35) scale(1) rotate(0, 49.27, 5)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 9.999999999999886 C 36.43622724706847 9.999999999999886 54.10377275293149 0 90.53999999999996 0" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(98.53999999999996, 0)  rotate(0) "  /> </g><use xlink:href="#StickerType1" transform="translate(4713.23, 1200.65) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffd2f2"/><g width="199px" height="228px"  transform="translate(4707.29, 1195.79) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="0.633331298828125" y="64" width="149.73333740234375" textLength="149.73333740234375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >Золотая</text><text xml:space="preserve" x="14.316665649414062" y="116" width="122.36666870117188" textLength="122.36666870117188" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >шляпа</text></g></g><g width="76.01px" height="6px"  transform="translate(4631.28, 1257.35) scale(1) rotate(0, 38.005, 3)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 6 C 27.309163521609207 6 40.699586478390756 0 68.00874999999996 0" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(76.00874999999996, 0)  rotate(0) "  /> </g><use xlink:href="#StickerType1" transform="translate(4926.17, 1203.65) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(4920.23, 1198.79) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="15.849998235702515" y="47.5" width="126.58333683013916" textLength="126.58333683013916" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Воркеру  </text><text xml:space="preserve" x="2.9583358764648438" y="86.5" width="145.0833282470703" textLength="145.0833282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >начислена</text><text xml:space="preserve" x="13.74166488647461" y="125.5" width="123.51667022705078" textLength="123.51667022705078" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >зарплата</text></g></g><g width="105.48px" height="3px"  transform="translate(4814.75, 1257.35) scale(1) rotate(0, 52.74, 1.5)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 0 C 39.00946142924795 0 58.468038570752014 3.0000000000001137 97.47749999999996 3.0000000000001137" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(105.47749999999996, 3)  rotate(0) "  /> </g><use xlink:href="#StickerType1" transform="translate(992.07, 601.8) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#6ae08d"/><g width="199px" height="228px"  transform="translate(986.13, 596.94) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="21.700000762939453" y="55" width="113.3166651725769" textLength="113.3166651725769" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Вакансии, </text><text xml:space="preserve" x="3.9583358764648438" y="85" width="148.79999494552612" textLength="148.79999494552612" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >назначенные </text><text xml:space="preserve" x="45.54166603088379" y="115" width="59.91666793823242" textLength="59.91666793823242" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >тесты</text></g></g><use xlink:href="#StickerType2" transform="translate(751.05, 2288.95) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#6ae08d"/><g width="199px" height="228px"  transform="translate(745.11, 2284.09) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="43.50833320617676" y="38" width="73.86666679382324" textLength="73.86666679382324" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >Все </text><text xml:space="preserve" x="28.924999237060547" y="90" width="103.03333473205566" textLength="103.03333473205566" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >типы </text><text xml:space="preserve" x="27.88333511352539" y="142" width="95.23332977294922" textLength="95.23332977294922" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >услуг</text></g></g><use xlink:href="#StickerType1" transform="translate(1063.14, 1995.11) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#6ae08d"/><g width="199px" height="228px"  transform="translate(1057.2, 1990.25) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="16.983333587646484" y="25" width="122.74999952316284" textLength="122.74999952316284" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Доступные </text><text xml:space="preserve" x="15.599998712539673" y="55" width="125.51666927337646" textLength="125.51666927337646" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >типы услуг, </text><text xml:space="preserve" x="32.43333435058594" y="85" width="91.84999799728394" textLength="91.84999799728394" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >условия </text><text xml:space="preserve" x="33.41666793823242" y="115" width="89.88333082199097" textLength="89.88333082199097" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >оплаты, </text><text xml:space="preserve" x="30.78333282470703" y="145" width="89.43333435058594" textLength="89.43333435058594" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >биллинг</text></g></g><g width="1850.03px" height="895.33px"  transform="translate(2190.88, 1523.08) scale(1) rotate(0, 925.015, 447.665)"><svg
+	width="1850.0342875968063"
+	height="895.32758818397"
+	shape-border-width="shape-background"
+	style="width:1850.0342875968063px; height: 895.32758818397px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="143451723748">
+		<rect
+			x="0"
+			y="0"
+			width="1850.0342875968063"
+			height="895.32758818397"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="#1a1a1a"
+			stroke-width="4"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="1850.0342875968063"
+			height="895.32758818397"
+			rx="0"
+			ry="0"
+			clip-path="url(#143451723748)"
+		></rect>
+	</g>
+</svg>
+</g><g width="1850.03px" height="895.33px"  transform="translate(2190.88, 1523.08) rotate(0, 925.015, 447.665)"><g transform="translate(44.7663794091985, 44.7663794091985)"></g></g><use xlink:href="#StickerType1" transform="translate(2344.36, 1841.57) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#6ae08d"/><g width="199px" height="228px"  transform="translate(2338.42, 1836.71) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.4083328247070312" y="64" width="146.18333435058594" textLength="146.18333435058594" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >Статусы</text><text xml:space="preserve" x="22.36666488647461" y="116" width="106.26667022705078" textLength="106.26667022705078" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >задач</text></g></g><use xlink:href="#StickerType2" transform="translate(2359.14, 2620.5) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#6ae08d"/><g width="199px" height="228px"  transform="translate(2353.2, 2615.64) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="4.358329772949219" y="67" width="150.08334064483643" textLength="150.08334064483643" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >Активные </text><text xml:space="preserve" x="25.13333511352539" y="108" width="100.73332977294922" textLength="100.73332977294922" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >заказы</text></g></g><use xlink:href="#StickerType1" transform="translate(2746.97, 1169.18) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#6ae08d"/><g width="199px" height="228px"  transform="translate(2741.03, 1164.32) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.0166702270507812" y="67" width="146.96665954589844" textLength="146.96665954589844" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >Открытые</text><text xml:space="preserve" x="25.441665649414062" y="108" width="100.11666870117188" textLength="100.11666870117188" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >заявки</text></g></g><use xlink:href="#StickerType1" transform="translate(5064.39, 2074.79) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#6ae08d"/><g width="199px" height="228px"  transform="translate(5058.45, 2069.93) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="0.9749984741210938" y="69" width="149.0500030517578" textLength="149.0500030517578" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Неуспешные</text><text xml:space="preserve" x="35.19166564941406" y="102" width="80.61666870117188" textLength="80.61666870117188" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >заказы</text></g></g><use xlink:href="#StickerType1" transform="translate(3017.43, 1998.47) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#6ae08d"/><g width="199px" height="228px"  transform="translate(3011.49, 1993.61) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.5333328247070312" y="55" width="145.93333435058594" textLength="145.93333435058594" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Назначенные</text><text xml:space="preserve" x="35.608333587646484" y="85" width="85.49999952316284" textLength="85.49999952316284" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >заказы, </text><text xml:space="preserve" x="30.78333282470703" y="115" width="89.43333435058594" textLength="89.43333435058594" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >биллинг</text></g></g><use xlink:href="#StickerType1" transform="translate(1541.58, 284.24) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffd2f2"/><g width="199px" height="228px"  transform="translate(1535.64, 279.38) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="37.25" y="70" width="82.21666669845581" textLength="82.21666669845581" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Сервис </text><text xml:space="preserve" x="3.2916641235351562" y="100" width="144.4166717529297" textLength="144.4166717529297" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >нотификаций</text></g></g><use xlink:href="#StickerType1" transform="translate(1795.04, 601.8) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(1789.1, 596.94) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="22.35833191871643" y="52.5" width="112.51666927337646" textLength="112.51666927337646" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Оценить  </text><text xml:space="preserve" x="1.1666641235351562" y="85.5" width="148.6666717529297" textLength="148.6666717529297" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >пройденный</text><text xml:space="preserve" x="51.933332443237305" y="118.5" width="47.13333511352539" textLength="47.13333511352539" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >тест</text></g></g><g width="59.91px" height="0px"  transform="translate(1896.56, 658.5) scale(1) rotate(0, 29.955, 0)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 2.2737367544323206e-13 C 20.763344262295107 2.2737367544323206e-13 31.14501639344263 0 51.90836065573774 0" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(59.908360655737624, -2.2737367544323206e-13)  rotate(0) "  /> </g><g width="251.71px" height="252.26px"  transform="translate(1283.93, 340.94) scale(1) rotate(0, 125.855, 126.13)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 252.25534090909105 C 0 111.95398019911136 103.40992716880777 0 243.71128787878746 0" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(251.71128787878752, 0)  rotate(0) "  /> </g><g width="199.73px" height="256px"  transform="translate(1643.1, 340.94) scale(1) rotate(0, 99.865, 128)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 199.73176355349858 255.99859119784446 C 199.73176355349858 128.06339019320103 135.93520100464346 0 8 0" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(0, 2.2737367544323206e-13)  rotate(180) "  /> </g><use xlink:href="#StickerType2" transform="translate(1673.2, 110.16) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(1667.26, 105.3) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.866668701171875" y="70" width="150.98332929611206" textLength="150.98332929611206" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Уведомление </text><text xml:space="preserve" x="12.483333587646484" y="100" width="126.03333282470703" textLength="126.03333282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >отправлено</text></g></g><g width="77.9px" height="112.52px"  transform="translate(1589.37, 166.86) scale(1) rotate(0, 38.95, 56.26)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 112.52333333333331 C 0 59.53758193627277 16.909248602939385 0 69.895 0" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(77.89500000000021, 0)  rotate(0) "  /> </g><use xlink:href="#StickerType1" transform="translate(5172.12, 1377.73) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffd2f2"/><g width="199px" height="228px"  transform="translate(5166.18, 1372.87) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="37.25" y="70" width="82.21666669845581" textLength="82.21666669845581" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Сервис </text><text xml:space="preserve" x="3.2916641235351562" y="100" width="144.4166717529297" textLength="144.4166717529297" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >нотификаций</text></g></g><use xlink:href="#StickerType1" transform="translate(5303.74, 1203.65) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(5297.8, 1198.79) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.866668701171875" y="70" width="150.98332929611206" textLength="150.98332929611206" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Уведомление </text><text xml:space="preserve" x="12.483333587646484" y="100" width="126.03333282470703" textLength="126.03333282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >отправлено</text></g></g><g width="77.89px" height="112.52px"  transform="translate(5219.91, 1260.35) scale(1) rotate(0, 38.945, 56.26)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 112.5233333333332 C 0 59.53758193627266 16.909248602939442 0 69.89499999999998 0" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(77.89500000000044, 0)  rotate(0) "  /> </g><use xlink:href="#StickerType2" transform="translate(4551.27, 1479.84) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(4545.33, 1474.98) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="27.191665649414062" y="41.5" width="105.45000171661377" textLength="105.45000171661377" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="34" 
+				fill="#1a1a1a" direction="ltr" >Снять </text><text xml:space="preserve" x="18.099998474121094" y="88.5" width="123.6333360671997" textLength="123.6333360671997" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="34" 
+				fill="#1a1a1a" direction="ltr" >деньги </text><text xml:space="preserve" x="0.17500066757202148" y="135.5" width="150.64999866485596" textLength="150.64999866485596" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="34" 
+				fill="#1a1a1a" direction="ltr" >за услуги</text></g></g><g width="567.12px" height="62.44px"  transform="translate(4599.06, 1412.54) scale(1) rotate(0, 283.56, 31.22)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 62.436005320000845 C 0 -15.868799071515014 109.51184788839782 -1.2503174242513069 187.4732481872088 6.075148720788889 C 300.52514663070224 16.697813930830876 410.3292329883857 21.89196241382615 559.1241666666665 21.89196241382615" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(567.1241666666665, 21.891962413825922)  rotate(0) "  /> </g><g width="588.63px" height="109.52px"  transform="translate(4577.55, 1324.91) scale(1) rotate(0, 294.315, 54.76)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 0 C 0 93.33680874757556 119.07733147743102 93.28022419617855 212.3505469167576 96.72509702263585 C 332.6368845921943 101.16764930412887 433.2280664465129 109.5233333333332 580.627954545454 109.5233333333332" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(588.6279545454545, 109.52333333333308)  rotate(0) "  /> </g><g width="77.48px" height="80.97px"  transform="translate(5712.26, 1996.01) scale(1) rotate(0, 38.74, 40.485)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 80.97333333333333 C 0 38.29357599881237 26.8046281576444 0 69.48438549216553 0" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(77.48438549216553, 0)  rotate(0) "  /> </g><use xlink:href="#StickerType2" transform="translate(3206.5, 924.4) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffd2f2"/><g width="199px" height="228px"  transform="translate(3200.56, 919.54) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="37.25" y="70" width="82.21666669845581" textLength="82.21666669845581" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Сервис </text><text xml:space="preserve" x="3.2916641235351562" y="100" width="144.4166717529297" textLength="144.4166717529297" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >нотификаций</text></g></g><use xlink:href="#StickerType2" transform="translate(3338.13, 750.31) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(3332.19, 745.45) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.866668701171875" y="70" width="150.98332929611206" textLength="150.98332929611206" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Уведомление </text><text xml:space="preserve" x="12.483333587646484" y="100" width="126.03333282470703" textLength="126.03333282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >отправлено</text></g></g><g width="77.89px" height="112.52px"  transform="translate(3254.29, 807.01) scale(1) rotate(0, 38.945, 56.26)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 112.52333333333354 C 0 59.53758193627277 16.909248602939215 0 69.89499999999998 0" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(77.89499999999998, 0)  rotate(0) "  /> </g><g width="20.64px" height="115.66px"  transform="translate(3233.65, 1042.66) scale(1) rotate(0, 10.32, 57.83)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 115.66322979835854 C 0 71.81378021996784 20.63898922996941 51.849449578390704 20.63898922996941 8" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(20.63898922996941, 2.2737367544323206e-13)  rotate(-90) "  /> </g><use xlink:href="#StickerType1" transform="translate(3257.53, 2204.51) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffd2f2"/><g width="199px" height="228px"  transform="translate(3251.59, 2199.65) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="37.25" y="70" width="82.21666669845581" textLength="82.21666669845581" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Сервис </text><text xml:space="preserve" x="3.2916641235351562" y="100" width="144.4166717529297" textLength="144.4166717529297" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >нотификаций</text></g></g><use xlink:href="#StickerType2" transform="translate(3493.16, 2289.1) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(3487.22, 2284.24) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.866668701171875" y="70" width="150.98332929611206" textLength="150.98332929611206" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Уведомление </text><text xml:space="preserve" x="12.483333587646484" y="100" width="126.03333282470703" textLength="126.03333282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >отправлено</text></g></g><g width="128.16px" height="84.58px"  transform="translate(3359.05, 2261.21) scale(1) rotate(0, 64.08, 42.29)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 0 C 58.779544064618676 0 61.38545593538129 84.58333333333337 120.16499999999996 84.58333333333337" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(128.16499999999996, 84.58333333333303)  rotate(0) "  /> </g><g width="279.55px" height="79.38px"  transform="translate(3305.32, 2120.27) scale(1) rotate(0, 139.775, 39.69)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 279.5494525698052 0 C 279.5494525698052 115.40791784769559 0 -44.023217420713024 0 71.38470042698256" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(0, 79.38470042698236)  rotate(90) "  /> </g><g width="131px" height="20px"  transform="translate(2229.21, 1546.99) scale(1.7142857142857142) rotate(0, 65.5, 10)"><svg
+	width="131"
+	height="20"
+	shape-border-width="shape-background"
+	style="width:131px; height: 20px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="882169857290">
+		<rect
+			x="0"
+			y="0"
+			width="131"
+			height="20"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="0"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="131"
+			height="20"
+			rx="0"
+			ry="0"
+			clip-path="url(#882169857290)"
+		></rect>
+	</g>
+</svg>
+</g><g width="224.57142857142856px" height="34.285714285714285px"  transform="translate(2229.21, 1546.99) rotate(0, 112.28571428571428, 17.142857142857142)"><g transform="translate(0, 0)"><text xml:space="preserve" x="1.1857121331351144" y="24" width="222.20000430515833" textLength="222.20000430515833" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Цикл жизни заказа</text></g></g><g width="431.97px" height="456.98px"  transform="translate(3305.32, 1742.68) scale(1) rotate(0, 215.985, 228.49)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 431.97299496225037 0 C 431.97299496225037 131.74602982262036 293.29456006094756 158.34928908915452 180.09398949018168 212.22233374469317 C 72.6541830905785 263.35378528035386 0 329.9891071713092 0 448.9753977065126" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(0, 456.97539770651247)  rotate(90) "  /> </g><use xlink:href="#StickerType2" transform="translate(1688.83, 1955.73) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(1682.89, 1950.87) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="5.916664123535156" y="46.5" width="146.96667194366455" textLength="146.96667194366455" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >Сматчить </text><text xml:space="preserve" x="3.399998188018799" y="87.5" width="144.2000036239624" textLength="144.2000036239624" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >клиента и</text><text xml:space="preserve" x="15.625" y="128.5" width="119.75" textLength="119.75" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="30" 
+				fill="#1a1a1a" direction="ltr" >воркера</text></g></g><g width="128.22px" height="68.25px"  transform="translate(1554.67, 1944.17) scale(1) rotate(0, 64.11, 34.125)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 0 C 55.296160038064386 0 64.91968907544808 68.2536287708381 120.21584911351245 68.2536287708381" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(128.2158491135126, 68.25362877083808)  rotate(0) "  /> </g><g width="76.46px" height="8.15px"  transform="translate(1790.35, 2012.43) scale(1) rotate(0, 38.23, 4.075)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 0 C 27.578158322004896 0 40.884130882069016 8.147549303167409 68.46228920407391 8.147549303167409" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(76.46228920407384, 8.147549303167352)  rotate(0) "  /> </g><use xlink:href="#StickerType1" transform="translate(1696.31, 1629.23) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffd2f2"/><g width="199px" height="228px"  transform="translate(1690.37, 1624.37) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="37.25" y="70" width="82.21666669845581" textLength="82.21666669845581" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Сервис </text><text xml:space="preserve" x="3.2916641235351562" y="100" width="144.4166717529297" textLength="144.4166717529297" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >нотификаций</text></g></g><use xlink:href="#StickerType2" transform="translate(1860.47, 1629.23) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(1854.53, 1624.37) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.866668701171875" y="70" width="150.98332929611206" textLength="150.98332929611206" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Уведомление </text><text xml:space="preserve" x="12.483333587646484" y="100" width="126.03333282470703" textLength="126.03333282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >отправлено</text></g></g><g width="56.7px" height="0px"  transform="translate(1797.83, 1685.93) scale(1) rotate(0, 28.35, 0)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 1.1368683772161603e-13 C 19.480484848485006 1.1368683772161603e-13 29.220727272727515 0 48.70121212121252 0" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(56.70121212121262, 0)  rotate(0) "  /> </g><g width="7.48px" height="203.38px"  transform="translate(1736.62, 1747.49) scale(1) rotate(0, 3.74, 101.69)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 203.3757840301659 C 0 125.16825939315794 7.477212124132791 86.20752463700796 7.477212124132791 8" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(7.47721212413262, 0)  rotate(-90) "  /> </g><use xlink:href="#StickerType2" transform="translate(1109.12, 805.54) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#fff79e"/><g width="199px" height="228px"  transform="translate(1103.18, 800.68) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.8333358764648438" y="86.5" width="143.3333282470703" textLength="143.3333282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Менеджер</text></g></g><use xlink:href="#StickerType2" transform="translate(1332.35, 794.05) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(1326.41, 789.19) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="27.75" y="25" width="101.21666669845581" textLength="101.21666669845581" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Изменён </text><text xml:space="preserve" x="5.750000238418579" y="55" width="145.21666622161865" textLength="145.21666622161865" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >набор тестов </text><text xml:space="preserve" x="55.74166679382324" y="85" width="45.233333110809326" textLength="45.233333110809326" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >для </text><text xml:space="preserve" x="10.524998903274536" y="115" width="135.66666889190674" textLength="135.66666889190674" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >кандидата в </text><text xml:space="preserve" x="29.349998474121094" y="145" width="92.30000305175781" textLength="92.30000305175781" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >воркеры</text></g></g><use xlink:href="#StickerType1" transform="translate(1332.35, 921.08) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(1326.41, 916.22) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="27.75" y="25" width="101.21666669845581" textLength="101.21666669845581" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Изменён </text><text xml:space="preserve" x="5.750000238418579" y="55" width="145.21666622161865" textLength="145.21666622161865" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >набор тестов </text><text xml:space="preserve" x="55.74166679382324" y="85" width="45.233333110809326" textLength="45.233333110809326" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >для </text><text xml:space="preserve" x="13.075000762939453" y="115" width="130.5666651725769" textLength="130.5666651725769" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >кандидатов </text><text xml:space="preserve" x="7.916666269302368" y="145" width="135.16666746139526" textLength="135.16666746139526" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >на вакансию</text></g></g><use xlink:href="#StickerType2" transform="translate(1219.21, 786.54) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(1213.27, 781.68) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.724998712539673" y="40" width="149.26666927337646" textLength="149.26666927337646" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Задать набор </text><text xml:space="preserve" x="18.649999856948853" y="70" width="119.4166669845581" textLength="119.4166669845581" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >тестов для </text><text xml:space="preserve" x="8.466667175292969" y="100" width="139.78333234786987" textLength="139.78333234786987" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >конкретного </text><text xml:space="preserve" x="19.583332061767578" y="130" width="111.83333587646484" textLength="111.83333587646484" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >кандидата</text></g></g><use xlink:href="#StickerType2" transform="translate(1224.89, 917.17) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(1218.95, 912.31) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="29.358333587646484" y="28" width="99.56666612625122" textLength="99.56666612625122" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Задать </text><text xml:space="preserve" x="33.93333435058594" y="67" width="90.41666460037231" textLength="90.41666460037231" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >набор </text><text xml:space="preserve" x="11.908334493637085" y="106" width="134.46666431427002" textLength="134.46666431427002" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >тестов на </text><text xml:space="preserve" x="9.508331298828125" y="145" width="131.98333740234375" textLength="131.98333740234375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >вакансию</text></g></g><use xlink:href="#StickerType1" transform="translate(978.38, 810.93) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#6ae08d"/><g width="199px" height="228px"  transform="translate(972.44, 806.07) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.2166671752929688" y="64" width="146.56666564941406" textLength="146.56666564941406" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >Наборы</text><text xml:space="preserve" x="16.38333511352539" y="116" width="118.23332977294922" textLength="118.23332977294922" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="38" 
+				fill="#1a1a1a" direction="ltr" >тестов</text></g></g><g width="1462.67px" height="1077.19px"  transform="translate(897.53, 67.52) scale(1) rotate(0, 731.335, 538.595)"><svg
+	width="1462.6666666666663"
+	height="1077.1934027862667"
+	shape-border-width="shape-background"
+	style="width:1462.6666666666663px; height: 1077.1934027862667px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="1695646886473">
+		<rect
+			x="0"
+			y="0"
+			width="1462.6666666666663"
+			height="1077.1934027862667"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="#1a1a1a"
+			stroke-width="4"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="1462.6666666666663"
+			height="1077.1934027862667"
+			rx="0"
+			ry="0"
+			clip-path="url(#1695646886473)"
+		></rect>
+	</g>
+</svg>
+</g><g width="1462.67px" height="1077.19px"  transform="translate(897.53, 67.52) rotate(0, 731.335, 538.595)"><g transform="translate(53.85967013931334, 53.85967013931334)"></g></g><g width="179px" height="40px"  transform="translate(906.42, 75.54) scale(1.7142857142857142) rotate(0, 89.5, 20)"><svg
+	width="179"
+	height="40"
+	shape-border-width="shape-background"
+	style="width:179px; height: 40px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="628341166961">
+		<rect
+			x="0"
+			y="0"
+			width="179"
+			height="40"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="0"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="179"
+			height="40"
+			rx="0"
+			ry="0"
+			clip-path="url(#628341166961)"
+		></rect>
+	</g>
+</svg>
+</g><g width="306.85714285714283px" height="68.57142857142857px"  transform="translate(906.42, 75.54) rotate(0, 153.42857142857142, 34.285714285714285)"><g transform="translate(0, 0)"><text xml:space="preserve" x="1.1285687174115862" y="24" width="304.60000542231967" textLength="304.60000542231967" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Тестирование кандидатов</text><text xml:space="preserve" x="93.18571410860334" y="58.285714285714285" width="120.48571463993616" textLength="120.48571463993616" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >в воркеры</text></g></g><use xlink:href="#StickerType2" transform="translate(5795.69, 1939.31) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffd2f2"/><g width="199px" height="228px"  transform="translate(5789.75, 1934.45) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="37.25" y="70" width="82.21666669845581" textLength="82.21666669845581" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Сервис </text><text xml:space="preserve" x="3.2916641235351562" y="100" width="144.4166717529297" textLength="144.4166717529297" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >нотификаций</text></g></g><use xlink:href="#StickerType1" transform="translate(5927.31, 1765.23) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(5921.37, 1760.37) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="2.866668701171875" y="70" width="150.98332929611206" textLength="150.98332929611206" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >Уведомление </text><text xml:space="preserve" x="12.483333587646484" y="100" width="126.03333282470703" textLength="126.03333282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="22" 
+				fill="#1a1a1a" direction="ltr" >отправлено</text></g></g><g width="77.9px" height="112.52px"  transform="translate(5843.48, 1821.93) scale(1) rotate(0, 38.95, 56.26)"><path stroke-linecap="butt" 
+			stroke="#333333" stroke-width="1" fill="transparent"
+			d="M 0 112.52333333333326 C 0 59.537581936272545 16.909248602939442 0 69.89500000000044 0" /> <use xlink:href="#LineHeadArrow1" fill="#333333"
+			 transform="translate(77.89500000000044, 0)  rotate(0) "  /> </g><g width="1879.55px" height="240.42px"  transform="translate(2315.79, 2568.12) scale(1) rotate(0, 939.775, 120.21)"><svg
+	width="1879.5518889062257"
+	height="240.42266501185037"
+	shape-border-width="shape-background"
+	style="width:1879.5518889062257px; height: 240.42266501185037px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="1563130195622">
+		<rect
+			x="0"
+			y="0"
+			width="1879.5518889062257"
+			height="240.42266501185037"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="#1a1a1a"
+			stroke-width="4"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="1879.5518889062257"
+			height="240.42266501185037"
+			rx="0"
+			ry="0"
+			clip-path="url(#1563130195622)"
+		></rect>
+	</g>
+</svg>
+</g><g width="1879.55px" height="240.42px"  transform="translate(2315.79, 2568.12) rotate(0, 939.775, 120.21)"><g transform="translate(12.02113325059252, 12.02113325059252)"></g></g><g width="85px" height="20px"  transform="translate(2315.79, 2568.12) scale(1.7142857142857142) rotate(0, 42.5, 10)"><svg
+	width="85"
+	height="20"
+	shape-border-width="shape-background"
+	style="width:85px; height: 20px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="619229092469">
+		<rect
+			x="0"
+			y="0"
+			width="85"
+			height="20"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="0"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="85"
+			height="20"
+			rx="0"
+			ry="0"
+			clip-path="url(#619229092469)"
+		></rect>
+	</g>
+</svg>
+</g><g width="145.7142857142857px" height="34.285714285714285px"  transform="translate(2315.79, 2568.12) rotate(0, 72.85714285714285, 17.142857142857142)"><g transform="translate(0, 0)"><text xml:space="preserve" x="0.5999973842075893" y="24" width="144.51429094587053" textLength="144.51429094587053" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Тотализатор</text></g></g><use xlink:href="#StickerType2" transform="translate(873.28, 2296.92) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#fff79e"/><g width="199px" height="228px"  transform="translate(867.34, 2292.06) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.8333358764648438" y="86.5" width="143.3333282470703" textLength="143.3333282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Менеджер</text></g></g><use xlink:href="#StickerType1" transform="translate(5455.76, 2326.11) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(5449.82, 2321.25) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.8333358764648438" y="47.5" width="150.6166615486145" textLength="150.6166615486145" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Менеджер </text><text xml:space="preserve" x="4.416665315628052" y="86.5" width="149.4500026702881" textLength="149.4500026702881" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >связался с </text><text xml:space="preserve" x="9.408332824707031" y="125.5" width="132.18333435058594" textLength="132.18333435058594" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >клиентом</text></g></g><use xlink:href="#StickerType1" transform="translate(5222.45, 2338.25) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#fff79e"/><g width="199px" height="228px"  transform="translate(5216.51, 2333.39) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.8333358764648438" y="86.5" width="143.3333282470703" textLength="143.3333282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Менеджер</text></g></g><use xlink:href="#StickerType2" transform="translate(5339.74, 2331.76) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(5333.8, 2326.9) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="12.025001525878906" y="36" width="133.1833300590515" textLength="133.1833300590515" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Проверить </text><text xml:space="preserve" x="2.7833328247070312" y="69" width="145.43333435058594" textLength="145.43333435058594" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >выполнение</text><text xml:space="preserve" x="8.491668701171875" y="102" width="140.24999570846558" textLength="140.24999570846558" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >случайного </text><text xml:space="preserve" x="37.625" y="135" width="75.75" textLength="75.75" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >заказа</text></g></g><use xlink:href="#StickerType1" transform="translate(5064.39, 2328.93) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#6ae08d"/><g width="199px" height="228px"  transform="translate(5058.45, 2324.07) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="1.633331298828125" y="65" width="147.73333740234375" textLength="147.73333740234375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="36" 
+				fill="#1a1a1a" direction="ltr" >История</text><text xml:space="preserve" x="7.875" y="114" width="135.25" textLength="135.25" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="36" 
+				fill="#1a1a1a" direction="ltr" >заказов</text></g></g><g width="1191.68px" height="739.2px"  transform="translate(4933.65, 1717.31) scale(1) rotate(0, 595.84, 369.6)"><svg
+	width="1191.679999999999"
+	height="739.1978866641923"
+	shape-border-width="shape-background"
+	style="width:1191.679999999999px; height: 739.1978866641923px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="220859089158">
+		<rect
+			x="0"
+			y="0"
+			width="1191.679999999999"
+			height="739.1978866641923"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="#1a1a1a"
+			stroke-width="4"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="1191.679999999999"
+			height="739.1978866641923"
+			rx="0"
+			ry="0"
+			clip-path="url(#220859089158)"
+		></rect>
+	</g>
+</svg>
+</g><g width="1191.68px" height="739.2px"  transform="translate(4933.65, 1717.31) rotate(0, 595.84, 369.6)"><g transform="translate(36.95989433320962, 36.95989433320962)"></g></g><g width="123px" height="20px"  transform="translate(5894.48, 2397.55) scale(1.7142857142857142) rotate(0, 61.5, 10)"><svg
+	width="123"
+	height="20"
+	shape-border-width="shape-background"
+	style="width:123px; height: 20px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="197570118317">
+		<rect
+			x="0"
+			y="0"
+			width="123"
+			height="20"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="0"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="123"
+			height="20"
+			rx="0"
+			ry="0"
+			clip-path="url(#197570118317)"
+		></rect>
+	</g>
+</svg>
+</g><g width="210.85714285714283px" height="34.285714285714285px"  transform="translate(5894.48, 2397.55) rotate(0, 105.42857142857142, 17.142857142857142)"><g transform="translate(0, 0)"><text xml:space="preserve" x="0.5142891066414969" y="24" width="209.82856464385986" textLength="209.82856464385986" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Проверка заказов</text></g></g><g width="1432.1px" height="823.57px"  transform="translate(4049.6, 811.6) scale(1) rotate(0, 716.05, 411.785)"><svg
+	width="1432.0993744975292"
+	height="823.5708315188897"
+	shape-border-width="shape-background"
+	style="width:1432.0993744975292px; height: 823.5708315188897px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="139686731163">
+		<rect
+			x="0"
+			y="0"
+			width="1432.0993744975292"
+			height="823.5708315188897"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="#1a1a1a"
+			stroke-width="4"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="1432.0993744975292"
+			height="823.5708315188897"
+			rx="0"
+			ry="0"
+			clip-path="url(#139686731163)"
+		></rect>
+	</g>
+</svg>
+</g><g width="1432.1px" height="823.57px"  transform="translate(4049.6, 811.6) rotate(0, 716.05, 411.785)"><g transform="translate(41.178541575944486, 41.178541575944486)"></g></g><g width="58px" height="20px"  transform="translate(4069.39, 835.2) scale(1.7142857142857142) rotate(0, 29, 10)"><svg
+	width="58"
+	height="20"
+	shape-border-width="shape-background"
+	style="width:58px; height: 20px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="670468077132">
+		<rect
+			x="0"
+			y="0"
+			width="58"
+			height="20"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="0"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="58"
+			height="20"
+			rx="0"
+			ry="0"
+			clip-path="url(#670468077132)"
+		></rect>
+	</g>
+</svg>
+</g><g width="99.42857142857142px" height="34.285714285714285px"  transform="translate(4069.39, 835.2) rotate(0, 49.71428571428571, 17.142857142857142)"><g transform="translate(0, 0)"><text xml:space="preserve" x="0.7142846243722037" y="24" width="98.000002179827" textLength="98.000002179827" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Биллинг</text></g></g><use xlink:href="#StickerType2" transform="translate(4205.9, 943.62) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#fff79e"/><g width="199px" height="228px"  transform="translate(4199.96, 938.76) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="3.8333358764648438" y="86.5" width="143.3333282470703" textLength="143.3333282470703" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Менеджер</text></g></g><use xlink:href="#StickerType1" transform="translate(4454.59, 941.53) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#ffb575"/><g width="199px" height="228px"  transform="translate(4448.65, 936.67) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="19.49166488647461" y="47.5" width="119.30000352859497" textLength="119.30000352859497" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >Воркеру </text><text xml:space="preserve" x="0.116668701171875" y="86.5" width="150.76666259765625" textLength="150.76666259765625" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >начислены</text><text xml:space="preserve" x="28.224998474121094" y="125.5" width="94.55000305175781" textLength="94.55000305175781" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="28" 
+				fill="#1a1a1a" direction="ltr" >деньги</text></g></g><use xlink:href="#StickerType2" transform="translate(4330.13, 941.53) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#86b4f9"/><g width="199px" height="228px"  transform="translate(4324.19, 936.67) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="28.525001525878906" y="46" width="98.63333034515381" textLength="98.63333034515381" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >Начислить </text><text xml:space="preserve" x="45.108333587646484" y="71" width="65.46666622161865" textLength="65.46666622161865" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >деньги </text><text xml:space="preserve" x="5.8000030517578125" y="96" width="144.083327293396" textLength="144.083327293396" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >определённому </text><text xml:space="preserve" x="40.25833511352539" y="121" width="70.48332977294922" textLength="70.48332977294922" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >воркеру</text></g></g><use xlink:href="#StickerType1" transform="translate(4073.17, 943.62) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#6ae08d"/><g width="199px" height="228px"  transform="translate(4067.23, 938.76) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="8.625" y="66" width="142.06666660308838" textLength="142.06666660308838" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="32" 
+				fill="#1a1a1a" direction="ltr" >Балансы </text><text xml:space="preserve" x="2.008331298828125" y="110" width="146.98333740234375" textLength="146.98333740234375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="32" 
+				fill="#1a1a1a" direction="ltr" >воркеров</text></g></g><use xlink:href="#StickerType2" transform="translate(4555.88, 888.08) scale(0.54) rotate(0, 99.5, 114) scale(0.44, 0.46)" fill="#f3f5f7"/><g width="199px" height="228px"  transform="translate(4549.94, 883.22) scale(0.54) rotate(0, 99.5, 114)"><g transform="translate(24, 22)"><text xml:space="preserve" x="25.358333587646484" y="33.5" width="104.96666622161865" textLength="104.96666622161865" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >Тут надо на </text><text xml:space="preserve" x="2.341667652130127" y="58.5" width="150.99999809265137" textLength="150.99999809265137" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >внутренний счёт </text><text xml:space="preserve" x="10.875000476837158" y="83.5" width="133.9333324432373" textLength="133.9333324432373" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >начислить или </text><text xml:space="preserve" x="24.28333330154419" y="108.5" width="107.11666679382324" textLength="107.11666679382324" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >сразу через </text><text xml:space="preserve" x="4.450001239776611" y="133.5" width="142.09999752044678" textLength="142.09999752044678" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="18" 
+				fill="#1a1a1a" direction="ltr" >золотую шляпу?</text></g></g><g width="1509.91px" height="859.49px"  transform="translate(594.61, 1582) scale(1) rotate(0, 754.955, 429.745)"><svg
+	width="1509.9124346598908"
+	height="859.4886166525532"
+	shape-border-width="shape-background"
+	style="width:1509.9124346598908px; height: 859.4886166525532px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="1338884499852">
+		<rect
+			x="0"
+			y="0"
+			width="1509.9124346598908"
+			height="859.4886166525532"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="#1a1a1a"
+			stroke-width="4"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="1509.9124346598908"
+			height="859.4886166525532"
+			rx="0"
+			ry="0"
+			clip-path="url(#1338884499852)"
+		></rect>
+	</g>
+</svg>
+</g><g width="1509.91px" height="859.49px"  transform="translate(594.61, 1582) rotate(0, 754.955, 429.745)"><g transform="translate(42.97443083262766, 42.97443083262766)"></g></g><g width="114px" height="20px"  transform="translate(637.71, 1612.77) scale(1.7142857142857142) rotate(0, 57, 10)"><svg
+	width="114"
+	height="20"
+	shape-border-width="shape-background"
+	style="width:114px; height: 20px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="513262482306">
+		<rect
+			x="0"
+			y="0"
+			width="114"
+			height="20"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="0"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="114"
+			height="20"
+			rx="0"
+			ry="0"
+			clip-path="url(#513262482306)"
+		></rect>
+	</g>
+</svg>
+</g><g width="195.42857142857142px" height="34.285714285714285px"  transform="translate(637.71, 1612.77) rotate(0, 97.71428571428571, 17.142857142857142)"><g transform="translate(0, 0)"><text xml:space="preserve" x="0.671429565974632" y="24" width="194.08571229662212" textLength="194.08571229662212" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Создание заказа</text></g></g><g width="1214.42px" height="726.85px"  transform="translate(2410.27, 668.92) scale(1) rotate(0, 607.21, 363.425)"><svg
+	width="1214.4196289916301"
+	height="726.8486166231995"
+	shape-border-width="shape-background"
+	style="width:1214.4196289916301px; height: 726.8486166231995px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="925436593780">
+		<rect
+			x="0"
+			y="0"
+			width="1214.4196289916301"
+			height="726.8486166231995"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="#1a1a1a"
+			stroke-width="4"
+			stroke-dasharray=""
+			stroke-opacity="1"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="1214.4196289916301"
+			height="726.8486166231995"
+			rx="0"
+			ry="0"
+			clip-path="url(#925436593780)"
+		></rect>
+	</g>
+</svg>
+</g><g width="1214.42px" height="726.85px"  transform="translate(2410.27, 668.92) rotate(0, 607.21, 363.425)"><g transform="translate(36.34243083115998, 36.34243083115998)"></g></g><g width="133px" height="20px"  transform="translate(2418.79, 685.93) scale(1.7142857142857142) rotate(0, 66.5, 10)"><svg
+	width="133"
+	height="20"
+	shape-border-width="shape-background"
+	style="width:133px; height: 20px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="1368166426595">
+		<rect
+			x="0"
+			y="0"
+			width="133"
+			height="20"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="0"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="133"
+			height="20"
+			rx="0"
+			ry="0"
+			clip-path="url(#1368166426595)"
+		></rect>
+	</g>
+</svg>
+</g><g width="228px" height="34.285714285714285px"  transform="translate(2418.79, 685.93) rotate(0, 114, 17.142857142857142)"><g transform="translate(0, 0)"><text xml:space="preserve" x="0.7857168061392648" y="24" width="226.42856638772145" textLength="226.42856638772145" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Noto Sans", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR' font-size="24" 
+				fill="#1a1a1a" direction="ltr" >Отдел расходников</text></g></g></svg>
